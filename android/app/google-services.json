@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810487422984",
+    "project_id": "phoneauth-f3046",
+    "storage_bucket": "phoneauth-f3046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810487422984:android:c113b88059b9734e6971bd",
+        "android_client_info": {
+          "package_name": "com.example.Flutter_Demo_App1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9VI0g6HiGWMJFWlZYFZuuFzBGWHhIQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810487422984:android:fc9fd16078551d2b6971bd",
+        "android_client_info": {
+          "package_name": "com.example.flut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9VI0g6HiGWMJFWlZYFZuuFzBGWHhIQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
